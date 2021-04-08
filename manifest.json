@@ -1,0 +1,12 @@
+{
+  "name": "JIRA stories in new tab again",
+  "description": "Extension for a Chrome to allow JIRA links to open in a new tabs",
+  "version": "1.0",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+    "matches": ["https://*/*"],
+    "js": ["contentScript.js"]
+    }
+  ]
+}

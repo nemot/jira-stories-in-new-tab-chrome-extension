@@ -1,2 +1,2 @@
-# jira-stories-in-new-tab-chrome-extension
-Hack to make links to a stories in Jira to be opened in new tabs
+# JIRA stories in new tab again!
+Extension for a Chrome to allow JIRA links to open in a new tabs
